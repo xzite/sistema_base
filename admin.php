@@ -55,7 +55,7 @@ $errorMsg = "";
 			</div>
 			<ul class="nav navbar-nav navbar-right m-n hidden-xs nav-user">
 				<li class="dropdown">
-					<a href="#" class="dropdown-toggle" data-toggle="dropdown"> <span class="thumb-sm avatar pull-left"> <img src="http://flatfull.com/themes/note/images/avatar_default.jpg"> </span> <?php echo $_SESSION['userNm']; ?> <b class="caret"></b> </a>
+					<a href="#" class="dropdown-toggle" data-toggle="dropdown"> <span class="thumb-sm avatar pull-left"> <img src="http://flatfull.com/themes/note/images/avatar_default.jpg"> </span> admin <b class="caret"></b> </a>
 					<ul class="dropdown-menu animated fadeInRight"> <span class="arrow top"></span> 
 						<li class="divider"></li>
 						<li> <a href="cerrar.php">Salir</a> </li>
