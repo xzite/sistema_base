@@ -36,7 +36,6 @@ $errorMsg = "";
 <title>FORBIDDEN 403</title>
 <meta name="description" content="app, web app, responsive, admin dashboard, admin, flat, flat ui, ui kit, off screen nav" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-<link rel="stylesheet" href="css/font.css" type="text/css" />
 <link rel="stylesheet" href="css/app.v1.css" type="text/css" />
 <script src="js/app.v1.js"></script>
 <!--[if lt IE 9]>
@@ -55,7 +54,7 @@ $errorMsg = "";
 			</div>
 			<ul class="nav navbar-nav navbar-right m-n hidden-xs nav-user">
 				<li class="dropdown">
-					<a href="#" class="dropdown-toggle" data-toggle="dropdown"> <span class="thumb-sm avatar pull-left"> <img src="http://flatfull.com/themes/note/images/avatar_default.jpg"> </span> admin <b class="caret"></b> </a>
+					<a href="#" class="dropdown-toggle" data-toggle="dropdown"> <span class="thumb-sm avatar pull-left"> <img src="images/avatar_default.jpg"> </span> admin <b class="caret"></b> </a>
 					<ul class="dropdown-menu animated fadeInRight"> <span class="arrow top"></span> 
 						<li class="divider"></li>
 						<li> <a href="cerrar.php">Salir</a> </li>
